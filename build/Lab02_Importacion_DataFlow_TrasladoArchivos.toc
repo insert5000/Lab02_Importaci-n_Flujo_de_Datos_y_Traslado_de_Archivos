@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Objetivos}{1}{section.1}%
+\contentsline {section}{\numberline {2}Requerimientos}{1}{section.2}%
+\contentsline {section}{\numberline {3}Desarrollo}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}TAREA 1: Importacion de Datos Usando El WIZARD – SQL MANAGMENT}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}TAREA 2: Creamos Nuestro Primer PAQUETE DTSX}{7}{subsection.3.2}%
